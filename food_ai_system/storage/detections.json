@@ -1,0 +1,111 @@
+[
+    {
+        "image": "multiple_images",
+        "ingredients": [
+            {
+                "name": "apple",
+                "confidence": 100
+            },
+            {
+                "name": "milk",
+                "confidence": 100
+            },
+            {
+                "name": "strawberry",
+                "confidence": 100
+            }
+        ],
+        "description": "Combined ingredients from 3 images.",
+        "recipe": "Recipe Name: Strawberry Apple Milk Smoothie\n\nSteps:\n1. Wash and hull the strawberries, then cut them into halves.\n2. Core and dice the apple into bite\u2011sized pieces.\n3. Place the strawberries, apple pieces, and a cup of milk into a blender.\n4. Blend on high until smooth and pour into a glass.\n\nHealth Score: 70/100",
+        "health_score": null,
+        "timestamp": "2026-02-19T12:02:24.955345"
+    },
+    {
+        "image": "multiple_images",
+        "ingredients": [
+            {
+                "name": "apple",
+                "confidence": 100
+            },
+            {
+                "name": "milk",
+                "confidence": 100
+            },
+            {
+                "name": "strawberry",
+                "confidence": 100
+            },
+            {
+                "name": "banana",
+                "confidence": 100
+            }
+        ],
+        "description": "Combined ingredients from 4 images.",
+        "recipe": "Recipe Name: Berry Apple Banana Milk Smoothie\n\nSteps:\n1. Wash the apple, peel if desired, core it, and slice into small pieces.\n2. Peel the banana and slice it into rounds.\n3. Wash the strawberries and cut them in halves or quarters.\n4. Place the sliced apple, banana, strawberries, and 1 cup of milk into a blender.\n5. Blend on high speed until smooth, then pour into glasses and serve.\n\nHealth Score: 85/100",
+        "health_score": null,
+        "timestamp": "2026-02-19T12:11:51.327039"
+    },
+    {
+        "image": "multiple_images",
+        "ingredients": [
+            {
+                "name": "apple",
+                "confidence": 100
+            },
+            {
+                "name": "milk",
+                "confidence": 100
+            },
+            {
+                "name": "banana",
+                "confidence": 100
+            }
+        ],
+        "description": "Combined ingredients from 3 images.",
+        "recipe": "Recipe Name: Apple Banana Milk Smoothie\n\nSteps:\n1. Peel and core the apple, then cut it into small pieces.\n2. Peel the banana and slice it into chunks.\n3. Place the apple pieces, banana slices, and 1 cup of milk in a blender and blend until smooth.\n\nHealth Score: 85/100",
+        "health_score": null,
+        "timestamp": "2026-02-19T12:22:01.058772"
+    },
+    {
+        "image": "multiple_images",
+        "ingredients": [
+            {
+                "name": "apple",
+                "confidence": 100
+            },
+            {
+                "name": "milk",
+                "confidence": 100
+            },
+            {
+                "name": "strawberry",
+                "confidence": 100
+            }
+        ],
+        "description": "Combined ingredients from 3 images.",
+        "recipe": "Recipe Name: Strawberry Apple Milk Smoothie\n\nSteps:\n1. Wash and core the apple, then cut into small pieces.\n2. Wash the strawberries and remove stems.\n3. Place apple pieces, strawberries, and 1 cup of milk in a blender; blend until smooth.\n\nHealth Score: 90/100",
+        "health_score": null,
+        "timestamp": "2026-02-19T12:22:37.253858"
+    },
+    {
+        "image": "multiple_images",
+        "ingredients": [
+            {
+                "name": "apple",
+                "confidence": 100
+            },
+            {
+                "name": "milk",
+                "confidence": 100
+            },
+            {
+                "name": "strawberry",
+                "confidence": 100
+            }
+        ],
+        "description": "Combined ingredients from 3 images.",
+        "recipe": "Recipe Name: Apple Strawberry Milk Smoothie\n\nSteps:\n1. Wash and slice the apple into small pieces.\n2. Wash the strawberries and remove stems.\n3. Blend the apple slices, strawberries, and milk until smooth.\n\nHealth Score: 85/100",
+        "health_score": null,
+        "timestamp": "2026-02-19T14:40:38.914222"
+    }
+]
