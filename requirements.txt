@@ -7,4 +7,6 @@ python-dotenv
 transformers
 torch
 torchvision
+tavily-python
+
 
