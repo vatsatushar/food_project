@@ -1,9 +1,10 @@
-ultralytics
 streamlit
-opencv-python
+ultralytics
+opencv-python-headless
 pillow
 groq
 python-dotenv
 transformers
 torch
-pillow
+torchvision
+
